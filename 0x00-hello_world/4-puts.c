@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-// output the line 'Programming is like building a multilingual puzzle without using printf'
+/*
+ * output the line 'Programming is like building a multilingual puzzle without using printf'
+*/
 
 int main(void)
 {
